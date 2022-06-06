@@ -14,5 +14,4 @@ begin
 	Q_out++;
 end
 endmodule
-© 2022 GitHub, Inc.
-Terms
+
